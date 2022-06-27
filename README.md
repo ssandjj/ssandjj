@@ -49,4 +49,6 @@
 </div>
 <br/>
 
+********************************************************************************************
+
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer&&fontSize=90&animation=twinkling&fontAlignY=40&customColorList=,1,3,3" />
